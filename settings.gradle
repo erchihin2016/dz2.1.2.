@@ -1,0 +1,2 @@
+rootProject.name='Spinner goroda ulitsy'
+include ':app'
